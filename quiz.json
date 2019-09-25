@@ -1,0 +1,82 @@
+{
+  "questions": [
+
+    {
+      "answers": [
+        "Rabindranath Tagore",
+        "Hemendranath Mazumdar'",
+        "Jamini Roy",
+        "Abhanindranath Tagore"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "image": "img/q1.png",
+      "number": 1,
+      "prompt": "The artist is best known for his representations of village life, especially \"Santhal\" women.",
+      "bio": "Jamini Roy was an Indian painter. He was honoured with the State award of Padma Bhushan in 1954 . He was one of the most famous pupils of Rabindranath Tagore."
+    },
+    {
+      "answers": [
+        "Michelangelo",
+        "Sandro Botticelli",
+        "Leonardo da Vinci",
+        "Pablo Picasso"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "image": "img/q2.png",
+      "number": 2,
+      "prompt": "Although there are a number of versions of this painting, the original lies in the Louvre, Paris.",
+      "bio": "Leonardo da Vinci was the first prime exemplar of this term. Although his exhaustive personal interests led to his mastery of multiple fields, he is widely considered one of the greatest painters of all time. His iconic works continue to be studied and revered today."
+    },
+    {
+      "answers": [
+        "Maqbool Fida Husein",
+        "Francis Newton Souza",
+        "Syed Haider Raza",
+        "Akbar Padamsee"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "img/q3.png",
+      "number": 3,
+      "prompt": "The artist was called the 'Picasso of India' by Forbes magazine ",
+      "bio": "Maqbool Fida Husain better known as M. F. Husain was an Indian painter, regarded as India’s most prolific, controversial, and world-renowned artists."
+    },
+    {
+      "answers": [
+        "Louis Bourgeois",
+        "Frida Kahlo",
+        "Salvador Dali",
+        "Georgia O'Keeffe"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "img/q4.png",
+      "number": 3,
+      "prompt": "The artist had a tumultuous relationship with Mexican muralist, Diego Rivera.",
+      "bio": "Frida Kahlo was a Mexican painter known for her many portraits, self-portraits, and works inspired by the nature and artifacts of Mexico."
+    },
+    {
+      "answers": [
+        "Edvard Munch",
+        "Vincent van Gogh",
+        "Gustav Klimt",
+        "Henri Matisse"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "img/q5.png",
+      "number": 3,
+      "prompt": "The artist's childhood was filled with tragedy which he later reflected in his artworks.",
+      "bio": "Edvard Munch was a Norwegian painter, whose best known work, The Scream, has become one of the most iconic images of world art. His childhood was overshadowed by illness, bereavement and the dread of inheriting a mental condition that ran in the family."
+    }
+  ],
+  "title": "Guess The Artist",
+  "url": "https://gamed.artfervour.ga/"
+}
